@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trello board</title>
-</head>
-<style>
+	<style>
 
 :root {
     font-size: 10px;
@@ -191,6 +190,8 @@ body {
 
 }
 </style>
+</head>
+
 <body>
     
 
