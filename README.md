@@ -22,20 +22,6 @@ If you'd like to collaborate, feel free to fork the repo, open issues, or submit
 * 🔁 Drag-and-drop tasks between columns
 * 💾 Persistent data using local storage (tasks stay after refresh)
 
-## 📂 Project Structure
-
-```
-Trelloboard/
-├── index.html        # Main HTML file
-├── style.css         # CSS styles
-└── script.js         # JavaScript for interaction
-```
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
 
 ## 📦 How to Run Locally
 
